@@ -15,10 +15,9 @@ Merhaba ben Rabia Toy. 22 yaşındayım. Web Geliştirme ile ilgileniyorum. Pati
         <a href="https://www.imdb.com/title/tt0816692/">
             <li>Yıldızlararası</li>
         </a>
-
         </ul>
     </li>
-    <li>
+      <li>
         Dizi
         <ul>
             <a href="https://www.imdb.com/title/tt0455275/">
@@ -39,6 +38,7 @@ Merhaba ben Rabia Toy. 22 yaşındayım. Web Geliştirme ile ilgileniyorum. Pati
         </ul>
     </li>
 </ol>
+       
 <!-- Kitap hakkında bilgi verilen kısım. -->
 <h3>Sevdiğim Kitaplar</h3>
 <h4>Pia Mater</h4>
